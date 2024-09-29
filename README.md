@@ -1,4 +1,4 @@
-([![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+my+dear+friend.;If+you+are+reading+this+profile.;Then+it+appealed+to+you+in+some+way.;Then+welcome.)](https://git.io/typing-svg)
+([![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+my+dear+friend.;If+you+are+reading+this+profile.;Then+it+appealed+to+you+in+some+way.;Then+welcome.)](https://git.io/typing-svg))
 
 ### Я просто человек который просто любит разбираться с пк)
 
