@@ -2,23 +2,31 @@
 
 ### Я просто человек который просто любит разбираться с пк)
 
-## Обо мне
+## Обо мне:
              Name - Anonim 
              Age - 22.
              Languages - Russian and English and Serbskiy.
 
 
-## Язык программирования
+## Язык программирования:
   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ## Моя операционная система:
-  [![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-black-1200dpi.94d8489023b3.png)](https://archlinux.org/)
+[![Arch Linux](https://cdn.jsdelivr.net/gh/archlinux/archlinux-artwork@master/logos/archlinux-logo-dark-90dpi.png)](https://archlinux.org/)
 
-## My statistics
+ 
+
+## My statistics:
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Anonim-IT&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonim-IT&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Presence
+## Статус моего профиля
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1220814806169288878)](https://discord.com/users/1220814806169288878)
+[![Дискорд статус](https://lanyard.cnrad.dev/api/1220814806169288878)](https://discord.com/users/1220814806169288878)
+
+
+### Виджет дискорд сервера:
+
+[![Discord Виджет](https://img.shields.io/discord/1033161547071094864?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/pCEn5hacEJ)
+
